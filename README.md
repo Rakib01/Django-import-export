@@ -1,1 +1,1 @@
-# Django-impor-export
+# Django-import-export
